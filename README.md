@@ -12,7 +12,7 @@
 <img width="1199" alt="image" src="https://github.com/user-attachments/assets/2476fcb3-9ffe-4cae-80f5-3b9bc255034f" />
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/319bc7b4-a5aa-479e-b5da-4ae8b1f38713" />
 <img width="1203" alt="image" src="https://github.com/user-attachments/assets/47b8d5ef-626c-421a-88c1-782cd92fbd31" />
-# 📝 더 나아가 논문화 작업 진행
+<h2 style="font-size: 28px; font-weight: bold;">📝 더 나아가 논문화 작업 진행</h2>
 <img width="100%" alt="논문작업1" src="https://github.com/user-attachments/assets/a1b500c0-075e-48ee-adba-08a8c617a3de" />
 
 
